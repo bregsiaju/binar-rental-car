@@ -1,0 +1,191 @@
+* {
+	font-family: helvetica, sans-serif;
+}
+
+p {
+	font-size: 14px;
+}
+
+#btn-success {
+	background-color: #5cb85f;
+	border-radius: 2px;
+	border: none;
+	padding: 8px 12px;
+}
+
+.container {
+	margin-top: 100px;
+	width: 1168px;
+	padding: 0;
+}
+
+/* navbar */
+
+.navbar {
+	background-color: #f1f3ff;
+}
+
+.navbar .navbar-content {
+	width: 1168px;
+}
+
+.navbar-brand {
+	width: 100px;
+	height: 34px;
+	background-color: #0d28a6;
+}
+
+/* main section */
+
+#main {
+	background-color: #f1f3ff;
+	height: 504px;
+}
+
+#main .content {
+	width: 1440px;
+}
+
+.car {
+	width: 704px;
+	height: 407px;
+	right: 0px;
+	top: 97px;
+}
+
+.car img {
+	width: 100%;
+}
+
+.desc {
+	top: 177px;
+}
+
+.slogan {
+	font-size: 36px;
+}
+
+.bg-car {
+	width: 704px;
+	height: 243px;
+	right: 0px;
+	top: 261px;
+	background: #0d28a6;
+	border-radius: 60px 0px 0px 0px;
+}
+
+/* service section */
+
+#our-service .container {
+	width: 1027px;
+	height: 428px;
+	margin-top: 104px;
+}
+
+.img-service img {
+	width: 459px;
+	height: 428px;
+}
+
+.desc-service {
+	height: 356px;
+	width: 468px;
+}
+
+.checklist {
+	width: 24px;
+	height: 24px;
+}
+
+/* why us section */
+
+.heading {
+	margin-bottom: 40px;
+}
+
+.card {
+	width: 268px;
+	height: 196px;
+}
+
+.card img {
+	width: 32px;
+	margin: 24px 0 0 24px;
+}
+
+/* testimonial section */
+
+#testimonial .containers {
+	width: 1320px;
+	margin: 100px auto 0;
+}
+
+.item {
+	height: 270px;
+	width: 619px;
+	background-color: #f1f3ff;
+	padding: 0px 32px 0px 46px;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+	border-radius: 8px;
+}
+
+.owl-carousel .owl-item img {
+	width: 80px;
+	height: 80px;
+	margin-right: 46px;
+}
+
+#rate {
+	max-width: 100%;
+	height: auto;
+}
+
+.carousel-ctrl-prev,
+.carousel-ctrl-next {
+	width: 32px;
+	height: 32px;
+	background-color: #fff;
+	border: 1px solid #c4c4c4;
+}
+
+.carousel-ctrl-prev:hover,
+.carousel-ctrl-next:hover {
+	background-color: #5cb85f;
+	color: #fff;
+}
+
+/* getting started */
+
+#getting-started .container {
+	background-color: #0d28a6;
+	border-radius: 13px;
+	padding: 64px;
+}
+
+#getting-started .container .desc {
+	margin-bottom: 52px;
+}
+
+/* FAQ section */
+
+.accordion {
+	width: 668px;
+}
+
+.accordion-button {
+	border: 1px solid #d4d4d4;
+	border-radius: 4px;
+}
+
+/* footer section */
+
+footer .container {
+	margin-top: 150px;
+	margin-bottom: 100px;
+}
+
+footer .container .address,
+.sosmed,
+.copyright {
+	width: 268px;
+}
